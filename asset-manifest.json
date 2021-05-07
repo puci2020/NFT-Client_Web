@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/NFT-Client_Web/static/css/main.94c5b844.chunk.css",
+    "main.js": "/NFT-Client_Web/static/js/main.295ff8f4.chunk.js",
+    "main.js.map": "/NFT-Client_Web/static/js/main.295ff8f4.chunk.js.map",
+    "runtime-main.js": "/NFT-Client_Web/static/js/runtime-main.0ee53753.js",
+    "runtime-main.js.map": "/NFT-Client_Web/static/js/runtime-main.0ee53753.js.map",
+    "static/css/2.1cb6b63b.chunk.css": "/NFT-Client_Web/static/css/2.1cb6b63b.chunk.css",
+    "static/js/2.e6d5920b.chunk.js": "/NFT-Client_Web/static/js/2.e6d5920b.chunk.js",
+    "static/js/2.e6d5920b.chunk.js.map": "/NFT-Client_Web/static/js/2.e6d5920b.chunk.js.map",
+    "index.html": "/NFT-Client_Web/index.html",
+    "static/css/2.1cb6b63b.chunk.css.map": "/NFT-Client_Web/static/css/2.1cb6b63b.chunk.css.map",
+    "static/css/main.94c5b844.chunk.css.map": "/NFT-Client_Web/static/css/main.94c5b844.chunk.css.map",
+    "static/js/2.e6d5920b.chunk.js.LICENSE.txt": "/NFT-Client_Web/static/js/2.e6d5920b.chunk.js.LICENSE.txt",
+    "static/media/primeicons.css": "/NFT-Client_Web/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ee53753.js",
+    "static/css/2.1cb6b63b.chunk.css",
+    "static/js/2.e6d5920b.chunk.js",
+    "static/css/main.94c5b844.chunk.css",
+    "static/js/main.295ff8f4.chunk.js"
+  ]
+}
